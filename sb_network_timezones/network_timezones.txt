@@ -1718,6 +1718,7 @@ SKY Ringside (AU):Australia/Sydney
 SNN LOCAL NEWS (US):US/Eastern
 SOAPnet:US/Eastern
 SONY ENTERTAINMENT TELEVISION (UK):Europe/London
+Sony Crackle :US/Eastern
 SONY MOVIE CHANNEL (US):US/Eastern
 SONY Movie Channel (UK):Europe/London
 SPACE:Canada/Eastern
